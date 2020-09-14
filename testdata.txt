@@ -1,0 +1,12 @@
+        args[0] = "1 1 X";
+        args[1] = "0 1 O";
+        args[2] = "0 0 X";
+        args[3] = "0 2 O";
+        args[4] = "2 2 X";
+
+
+        args[0] = "1 1 X";
+        args[1] = "0 2 O";
+        args[2] = "1 0 X";
+        args[3] = "0 1 O";
+        args[4] = "1 2 X";

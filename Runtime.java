@@ -12,8 +12,12 @@ public class Main
             int x = Integer.valueOf(datas[0]).intValue();
             int y = Integer.valueOf(datas[1]).intValue();
             if (mat[x][y] != 0) {
-                System.out.println("error input");
-            
+
+	if (i >= 9) {
+	  System.out.println("draw game");
+	} else {
+                  System.out.println("error input");
+                }
                 return;
             }
             
